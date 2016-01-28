@@ -1,0 +1,165 @@
+The data defines the average values for each of the 30 subjects and for each of the 6 activities. 
+
+"subject": The subject is one of the 30 people in the study. So, the value is between 1 and 30.
+
+"activity": The value is one of the following: "LAYING" "SITTING" "STANDING" "WALKING" "WALKING_DOWNSTAIRS" "WALKING_UPSTAIRS"
+
+All the following variables are numeric values.
+
+"tBodyAcc-mean()-X": average value of tBodyAcc-mean()-X for the given subject and activity
+
+"tBodyAcc-mean()-Y": average value of tBodyAcc-mean()-Y for the given subject and activity
+
+"tBodyAcc-mean()-Z": average value of tBodyAcc-mean()-Z for the given subject and activity
+
+"tGravityAcc-mean()-X": average value of tGravityAcc-mean()-X for the given subject and activity
+
+"tGravityAcc-mean()-Y": average value of tGravityAcc-mean()-Y for the given subject and activity
+
+"tGravityAcc-mean()-Z": average value of tGravityAcc-mean()-Z for the given subject and activity
+
+"tBodyAccJerk-mean()-X": average value of tBodyAccJerk-mean()-X for the given subject and activity
+
+"tBodyAccJerk-mean()-Y": average value of tBodyAccJerk-mean()-Y for the given subject and activity
+
+"tBodyAccJerk-mean()-Z": average value of tBodyAccJerk-mean()-Z for the given subject and activity
+
+"tBodyGyro-mean()-X": average value of tBodyGyro-mean()-X for the given subject and activity
+
+"tBodyGyro-mean()-Y": average value of tBodyGyro-mean()-Y for the given subject and activity
+
+"tBodyGyro-mean()-Z": average value of tBodyGyro-mean()-Z for the given subject and activity
+
+"tBodyGyroJerk-mean()-X": average value of tBodyGyroJerk-mean()-X for the given subject and activity
+
+"tBodyGyroJerk-mean()-Y": average value of tBodyGyroJerk-mean()-Y for the given subject and activity
+
+"tBodyGyroJerk-mean()-Z": average value of tBodyGyroJerk-mean()-Z for the given subject and activity
+
+"tBodyAccMag-mean()": average value of tBodyAccMag-mean() for the given subject and activity
+
+"tGravityAccMag-mean()": average value of tGravityAccMag-mean() for the given subject and activity
+
+"tBodyAccJerkMag-mean()": average value of tBodyAccJerkMag-mean() for the given subject and activity
+
+"tBodyGyroMag-mean()": average value of tBodyGyroMag-mean() for the given subject and activity
+
+"tBodyGyroJerkMag-mean()": average value of tBodyGyroJerkMag-mean() for the given subject and activity
+
+"fBodyAcc-mean()-X": average value of fBodyAcc-mean()-X for the given subject and activity
+
+"fBodyAcc-mean()-Y": average value of fBodyAcc-mean()-Y for the given subject and activity
+
+"fBodyAcc-mean()-Z": average value of fBodyAcc-mean()-Z for the given subject and activity
+
+"fBodyAcc-meanFreq()-X": average value of fBodyAcc-meanFreq()-X for the given subject and activity
+
+"fBodyAcc-meanFreq()-Y": average value of fBodyAcc-meanFreq()-Y for the given subject and activity
+
+"fBodyAcc-meanFreq()-Z": average value of fBodyAcc-meanFreq()-Z for the given subject and activity
+
+"fBodyAccJerk-mean()-X": average value of fBodyAccJerk-mean()-X for the given subject and activity
+
+"fBodyAccJerk-mean()-Y": average value of fBodyAccJerk-mean()-Y for the given subject and activity
+
+"fBodyAccJerk-mean()-Z": average value of fBodyAccJerk-mean()-Z for the given subject and activity
+
+"fBodyAccJerk-meanFreq()-X": average value of fBodyAccJerk-meanFreq()-X for the given subject and activity
+
+"fBodyAccJerk-meanFreq()-Y": average value of fBodyAccJerk-meanFreq()-Y for the given subject and activity
+
+"fBodyAccJerk-meanFreq()-Z": average value of fBodyAccJerk-meanFreq()-Z for the given subject and activity
+
+"fBodyGyro-mean()-X": average value of fBodyGyro-mean()-X for the given subject and activity
+
+"fBodyGyro-mean()-Y": average value of fBodyGyro-mean()-Y for the given subject and activity
+
+"fBodyGyro-mean()-Z": average value of fBodyGyro-mean()-Z for the given subject and activity
+
+"fBodyGyro-meanFreq()-X": average value of fBodyGyro-meanFreq()-X for the given subject and activity
+
+"fBodyGyro-meanFreq()-Y": average value of fBodyGyro-meanFreq()-Y for the given subject and activity
+
+"fBodyGyro-meanFreq()-Z": average value of fBodyGyro-meanFreq()-Z for the given subject and activity
+
+"fBodyAccMag-mean()": average value of fBodyAccMag-mean() for the given subject and activity
+
+"fBodyAccMag-meanFreq()": average value of fBodyAccMag-meanFreq() for the given subject and activity
+
+"fBodyBodyAccJerkMag-mean()": average value of fBodyBodyAccJerkMag-mean() for the given subject and activity
+
+"fBodyBodyAccJerkMag-meanFreq()": average value of fBodyBodyAccJerkMag-meanFreq() for the given subject and activity
+ 
+"fBodyBodyGyroMag-mean()": average value of fBodyBodyGyroMag-mean() for the given subject and activity
+
+"fBodyBodyGyroMag-meanFreq()": average value of fBodyBodyGyroMag-meanFreq() for the given subject and activity
+
+"fBodyBodyGyroJerkMag-mean()": average value of fBodyBodyGyroJerkMag-mean() for the given subject and activity
+
+"fBodyBodyGyroJerkMag-meanFreq()": average value of fBodyBodyGyroJerkMag-meanFreq() for the given subject and activity
+
+"tBodyAcc-std()-X": average value of tBodyAcc-std()-X for the given subject and activity
+
+"tBodyAcc-std()-Y": average value of tBodyAcc-std()-Y for the given subject and activity
+
+"tBodyAcc-std()-Z": average value of tBodyAcc-std()-Z for the given subject and activity
+
+"tGravityAcc-std()-X": average value of tGravityAcc-std()-X for the given subject and activity
+
+"tGravityAcc-std()-Y": average value of tGravityAcc-std()-Y for the given subject and activity
+
+"tGravityAcc-std()-Z": average value of tGravityAcc-std()-Z for the given subject and activity
+
+"tBodyAccJerk-std()-X": average value of tBodyAccJerk-std()-X for the given subject and activity
+
+"tBodyAccJerk-std()-Y": average value of tBodyAccJerk-std()-Y for the given subject and activity
+
+"tBodyAccJerk-std()-Z": average value of tBodyAccJerk-std()-Z for the given subject and activity
+
+"tBodyGyro-std()-X": average value of tBodyGyro-std()-X for the given subject and activity
+
+"tBodyGyro-std()-Y": average value of tBodyGyro-std()-Y for the given subject and activity
+
+"tBodyGyro-std()-Z": average value of tBodyGyro-std()-Z for the given subject and activity
+
+"tBodyGyroJerk-std()-X": average value of tBodyGyroJerk-std()-X for the given subject and activity
+
+"tBodyGyroJerk-std()-Y": average value of tBodyGyroJerk-std()-Y for the given subject and activity
+
+"tBodyGyroJerk-std()-Z": average value of tBodyGyroJerk-std()-Z for the given subject and activity
+
+"tBodyAccMag-std()": average value of tBodyAccMag-std() for the given subject and activity
+
+"tGravityAccMag-std()": average value of tGravityAccMag-std() for the given subject and activity
+
+"tBodyAccJerkMag-std()": average value of tBodyAccJerkMag-std() for the given subject and activity
+
+"tBodyGyroMag-std()": average value of tBodyGyroMag-std() for the given subject and activity
+
+"tBodyGyroJerkMag-std()": average value of tBodyGyroJerkMag-std() for the given subject and activity
+
+"fBodyAcc-std()-X": average value of fBodyAcc-std()-X for the given subject and activity
+
+"fBodyAcc-std()-Y": average value of fBodyAcc-std()-Y for the given subject and activity
+
+"fBodyAcc-std()-Z": average value of fBodyAcc-std()-Z for the given subject and activity
+
+"fBodyAccJerk-std()-X": average value of fBodyAccJerk-std()-X for the given subject and activity
+
+"fBodyAccJerk-std()-Y": average value of fBodyAccJerk-std()-Y for the given subject and activity
+
+"fBodyAccJerk-std()-Z": average value of fBodyAccJerk-std()-Z for the given subject and activity
+
+"fBodyGyro-std()-X": average value of fBodyGyro-std()-X for the given subject and activity
+
+"fBodyGyro-std()-Y": average value of fBodyGyro-std()-Y for the given subject and activity
+
+"fBodyGyro-std()-Z": average value of fBodyGyro-std()-Z for the given subject and activity
+
+"fBodyAccMag-std()": average value of fBodyAccMag-std() for the given subject and activity
+
+"fBodyBodyAccJerkMag-std()": average value of fBodyBodyAccJerkMag-std() for the given subject and activity
+
+"fBodyBodyGyroMag-std()": average value of fBodyBodyGyroMag-std() for the given subject and activity
+
+"fBodyBodyGyroJerkMag-std()": average value of fBodyBodyGyroJerkMag-std() for the given subject and activity
